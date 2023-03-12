@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# ❤️ ReactJs-User-Dashboard-Panel 🚀
+Welcome to `Reactjs-User-Dashboard-Panel` uses `ReactJs` and `MUI material`, a repository dedicated to improving your `ReactJS skills` through hands-on `practical project`.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [🚀 Live Project Link 😍](https://react-task-dashboard-panel.netlify.app/)
 
-## Available Scripts
+Whether you are a `beginner or an experienced React developer`, this repository is designed to help you `stay up-to-date` with the latest developments in the React community and enhance your understanding of the framework.
 
-In the project directory, you can run:
+# Prerequisites
+Before getting started with the project, you should have a basic understanding of `ReactJs, JavaScript, HTML, CSS and MUI material`. Familiarity with `ReactJS concepts` such as `components`, `props`, `state`, and `hooks` is also recommended.
 
-### `npm start`
+# Contribute
+This repository is `open-source and contributions` are always welcome! If you have a solution to a problem or a new exercise that you would like to share, feel free to `submit a pull request`. Your contribution will help make this repository a valuable resource for the `ReactJS community`.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Conclusion
+We hope that you find `Reactjs-User-Dashboard-Panel` useful in your `Interview preparation` to become a better `ReactJS developer`. Happy coding!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔥 Clone this Repository
+You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
-### `npm test`
+```bash
+  git clone "https://github.com/chetannada/Reactjs-User-Dashboard-Panel.git"
+```
+Go to the project directory
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+  cd Reactjs-User-Dashboard-Panel
+```
+Install dependencies
+```bash
+  npm install
+```
+Start the server
+```bash
+  npm run start
+```
 
-### `npm run build`
+This application should now be running on `localhost`. If you want to Fork repository and want to run locally, follow this guidelines [Fork and Clone Github Repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 🔗 Let's Connect
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555)
