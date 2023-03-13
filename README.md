@@ -1,7 +1,7 @@
 # ❤️ ReactJs-User-Dashboard-Panel 🚀
 Welcome to `Reactjs-User-Dashboard-Panel` uses `ReactJs` and `MUI material`, a repository dedicated to improving your `ReactJS skills` through hands-on `practical project`.
 
-- [🚀 Live Project Link 😍](https://react-task-dashboard-panel.netlify.app/)
+- [🚀 Live Project Link 😍](https://react-user-dashboard-panel.netlify.app/)
 
 Whether you are a `beginner or an experienced React developer`, this repository is designed to help you `stay up-to-date` with the latest developments in the React community and enhance your understanding of the framework.
 
